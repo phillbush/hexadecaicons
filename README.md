@@ -1,5 +1,5 @@
 HexaDecaIcon.xpm
 
-![demo.png](demo)
+![demo](demo.png)
 
 Collection of 16x16 icons I drawn for personal use.
